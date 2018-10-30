@@ -1,2 +1,2 @@
 # hello-world
-just starting to know git hub
+just starting to know git hub//hacktober
